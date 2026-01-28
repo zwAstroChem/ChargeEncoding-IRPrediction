@@ -23,6 +23,8 @@ via:
 pip install torch rdkit-pypi numpy matplotlib scikit-learn
 
 ## Usage
+0. Unzip the file Data_to_be_unzipped.zip
+
 1. Prepare Data
 Place your JSON data file in the root directory. The file should contain SMILES strings, spectra, and charge information in the expected format.
 
